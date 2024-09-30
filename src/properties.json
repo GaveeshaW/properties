@@ -1,0 +1,185 @@
+
+[
+    {
+        "id":"prop1", 
+        "type":"House",
+        "rooms":3,
+        "price":750000,
+        "tenure":"Freehold",
+        "description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+        "address":"Lake Rd, Colombo",
+        "pictures":"living1.jpg",
+        "picture":"image1.jpg",
+        "thumbnailimages": [
+            "image1.jpg",
+            "living1.jpg",
+            "bathroom1.webp",
+            "kitchen1.jpg",
+            "bedroom1.avif",
+            "pool1.jpg",
+            "garden1.jpg",
+            "balcony1.webp"
+        ],
+        "floorplan":"floor1.jpg",
+        "url":"properties/prop1.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d477.17254634480776!2d79.94236416085847!3d6.894029087073275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2519c289ad6c5%3A0x71574c80bbc4c70!2sEmee%20Fashion!5e0!3m2!1sen!2slk!4v1704750317287!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "01-05-2023"
+    },
+    {
+        "id":"prop2",
+        "type":"Flat",
+        "rooms":2,
+        "price":399995,
+        "tenure":"Freehold",
+        "description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+        "address":"6th Ln, Colombo",
+        "pictures":"living2.jpg",
+        "picture":"image2.jpg",
+        "thumbnailimages": [
+            "image2.jpg",
+            "living2.jpg",
+            "bathroom2.jpeg",
+            "kitchen2.png",
+            "bedroom2.jpg",
+            "pool2.jpg",
+            "garden2.jpg",
+            "balcony2.jpeg"
+        ],
+        "floorplan":"floor2.jpg",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d279.4464187396713!2d79.86602731431498!3d6.948723206359542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae259844aebcf39%3A0x3cc2c64ad0b39991!2sANGELA%20FASHION!5e0!3m2!1sen!2slk!4v1704752073848!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "14-09-2023"
+        
+    },
+    {
+        "id":"prop3",
+        "type":"House",
+        "rooms":4,
+        "price":850000,
+        "tenure":"Freehold",
+        "description":"This stunning four bedroom house is located in the heart of Kitelella. The kitchen gives a rich and modern look due to the wooden floors and aluminium pantries including appliances like dishwasher and an oven. The house consists of a mini bar, swimming pool, private gym, small movie hall and a beautiful open rooftop with a bar, designed to hold parties. All the four rooms have an attatched bathroom with TVs'. There is a seperate room to wash clothes and iron them. The master bedroom has a huge walk-in closet while the other rooms have cupboards to store clothes and other stuff.",
+        "address":"Kitelella road, Ella",
+        "pictures":"living3.avif",
+        "picture":"image3.jpg",
+        "thumbnailimages": [
+            "image3.jpg",
+            "living3.avif",
+            "bathroom3.jpg",
+            "kitchen3.jpg",
+            "bedroom3.jpg",
+            "pool3.webp",
+            "garden3.jpg",
+            "balcony3.jpg"
+        ],
+        "floorplan":"floor3.jpg",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d426.3536733832509!2d81.04058350860376!3d6.870258085941611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae465148368cfbf%3A0x649370f01f76c4bf!2sHeart%20of%20Ella!5e0!3m2!1sen!2slk!4v1704752571657!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "18-10-2023"
+        
+    },
+    {
+        "id":"prop4",
+        "type":"Flat",
+        "rooms":3,
+        "price":400000,
+        "tenure":"Freehold",
+        "description":"Located in the Dutch road of Jaffna, this flat is the best place for you. There is a hospital, police station, post office and a railway station close to this property. This property consists of three bedrooms, two bathrooms, a kitchen and a spacious living room. This can easily accommodate a family of four. Each room will have its own balcony and the balconies will be connected to each other. The main bathroom has both a bathtub and a shower. There is wiring for the television in the living room. Kitchen appliances like a fridge, a blender, a dishwasher and a microwave will be available at the kitchen for use. A mini fridge is there in the master bedroom to store food and drinks...",
+        "address":"Dutch road, Jaffna",
+        "pictures":"living4.avif",
+        "picture":"image4.jpg",
+        "thumbnailimages": [
+            "image4.jpg",
+            "living4.avif",
+            "bathroom4.avif",
+            "kitchen4.jpg",
+            "bedroom4.jpg",
+            "pool4.jpg",
+            "garden4.jpg",
+            "balcony4.jpg"
+        ],
+        "floorplan":"floor4.png",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d926.1348967247262!2d80.03658665316283!3d9.684600428365492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe553087cf4a6b%3A0x936da210fcfb2893!2sCool%20Kingdom%20Engineering!5e0!3m2!1sen!2slk!4v1704772546026!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "19-08-2023"
+        
+    },
+    {
+        "id":"prop5",
+        "type":"House",
+        "rooms":2,
+        "price":220000,
+        "tenure":"Freehold",
+        "description":"This attractive and modern house is located in the heart of Colombo which is so close to many tourist attractions and it is situated close to the town which is easy access to public places. This house has two bedrooms and an attatched bathroom for each room. Both rooms are the same size and is carpeted using wood. This house is only a storey. The area of the land is approximately 20 perches and there's plenty of space left outside the house for the garden. This house would be the best for an old couple as not much effort is needed to maintain this marvellous house.",
+        "address":"Raja Mw, Colombo",
+        "pictures":"living5.jpg",
+        "picture":"image5.jpg",
+        "thumbnailimages": [
+            "image5.jpg",
+            "living5.jpg",
+            "bathroom5.jpg",
+            "kitchen5.jpg",
+            "bedroom5.jpg",
+            "pool5.jpg",
+            "garden5.jpg",
+            "balcony5.jpeg"
+        ],
+        "floorplan":"floor5.jpg",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d326.1994888361178!2d79.87105441616826!3d6.8181165378116715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25bf10754de4f%3A0xc6ff3cbf967c0310!2sAmfa%20Apartment!5e0!3m2!1sen!2slk!4v1704772838799!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "10-05-2023"
+        
+    },
+    {
+        "id":"prop6",
+        "type":"Flat",
+        "rooms":2,
+        "price":150000,
+        "tenure":"Freehold",
+        "description":"This flat is located in the St Benedict road of Jaffna. This flat is so close to a hospital, shopping malls, grocery stores, a railway station and a post office. This flat has two bedrooms. Everything including beds, chairs and electric appliances will be given beforehand which are in good condition to be used. The two rooms have glass windows with two small balconies. There is a kitchen, a small living room, a small dining room and a seperate small room where the washing machine is kwpt. Wiring for the television and Wi-Fi is done beforehand. There is a good supply of water to the ftat. This would be a good option for a couple, but it could also accommodate a maximum family of four.",
+        "address":"Palam Rd, Jaffna",
+        "pictures":"living6.jpg",
+        "picture":"image6.jpg",
+        "thumbnailimages": [
+            "image6.jpg",
+            "living6.jpg",
+            "bathroom6.jpg",
+            "kitchen6.jpg",
+            "bedroom6.jpeg",
+            "pool6.jpg",
+            "garden6.jpg",
+            "balcony6.jpg"
+        ],
+        "floorplan":"floor6.jpg",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d623.1649765335587!2d80.02283389480316!3d9.67785841956096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3afe541ee458d591%3A0x812dbbb4488d3c0!2sE.Com%20Computer%20Training%20Centre!5e0!3m2!1sen!2slk!4v1704772962336!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "13-11-2023"
+        
+    },
+    {
+        "id":"prop7",
+        "type":"House",
+        "rooms":5,
+        "price":699000,
+        "tenure":"Freehold",
+        "description":"This luxurious house is located near the Rahula College of Matara. This modern house has five bedrooms with attatched bathrooms and walk-in closets for each room. Each bathroom has luxurious bathroom fittings and bathtubs. This house has a private bar and an indoor heated swimming pool. This house has an extra room which could be used as a kiddies room or a store room. The kitchen is attached to a juice bar which could be used to sip a cold watermelon juice while hacing a lovely chat. This house is two storeyed and has approximately 18.5 perches as the area of the land.",
+        "address":"Pasal Mw, Matara",
+        "pictures":"living7.jpg",
+        "picture":"image7.jpg",
+        "thumbnailimages": [
+            "image7.jpg",
+            "living7.jpg",
+            "bathroom7.jpg",
+            "kitchen7.jpg",
+            "bedroom7.jpg",
+            "pool7.jpg",
+            "garden7.jpg",
+            "balcony7.jpg"
+        ],
+        "floorplan": "floor7.jpg",
+        "url":"properties/prop2.html",
+        "map":"<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d514.5566813709241!2d80.54386624096392!3d5.955782048694469!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae1392a3c2c2a2b%3A0x5bbf804d7a355a13!2sLaka&#39;s%20home!5e0!3m2!1sen!2slk!4v1704773064083!5m2!1sen!2slk' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "dateAdded": "11-11-2023"
+    
+    }
+]
+  

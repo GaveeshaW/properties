@@ -1,0 +1,348 @@
+/* styles.css */
+
+.property-box {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  width: 250px;
+  height: 350px;
+  background-color: aliceblue;
+}
+  
+.property-box p {
+  margin: 5px 0;
+}
+  
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+  
+.favorite-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+  
+body{
+  background-color: beige;
+}
+
+.lists-container {
+  display: flex;
+  justify-content: space-between;
+}
+  
+.properties-box{
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  height: 1400px; /* Set your preferred height */
+  width: calc(65% - 20px); /* 33.33% width for three boxes with margin */
+  margin-bottom: 20px;
+  overflow-y: auto; /* Enable scrolling if content overflows */
+  background-color: lightblue;
+  margin-left: 20px;
+}
+.favorites-box {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  height: 1400px; /* Set your preferred height */
+  width: calc(30% - 20px); /* 33.33% width for three boxes with margin */
+  margin-bottom: 20px;
+  overflow-y: auto; /* Enable scrolling if content overflows */
+  background-color: lightblue;
+  margin-right: 20px;
+}
+  
+.property-box:last-child {
+  margin-bottom: 0;
+}
+
+.addToFavoritesBtn{
+  background-color: chartreuse;
+  border-radius: 5px;
+  height: 30px;
+  width: 250px;
+  font-weight: bold;
+}
+
+.addToFavoritesBtn:hover{
+  background-color: lightgreen;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.propertySearch{
+  border-radius: 5px;
+  width: 300px;
+  height: 30px;
+}
+
+.pic{
+  width: 250px;
+  height: 180px;
+}
+
+.favpic{
+  width: 165px;
+  height: 100px;
+  margin-right: 20px;
+  margin-right: 20px; 
+}
+
+.favorite-box {
+  display: flex;
+  align-items: flex-start; 
+  border: 1px solid black;
+  padding: 10px;
+  background-color: white;
+}
+
+.property-details {
+  display: flex;
+  flex-direction: column; /* Display details in a column */
+}
+
+
+.left-side {
+  flex: 0 0 auto; /* Non-flexible left side */
+  margin-right: 20px; /* Spacing between image and details */
+}
+
+.right-side {
+  flex: 1; /* Flexible right side */
+}
+
+.propertySearch{
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+h1{
+  margin-left: 20px;
+}
+
+.remove{
+  margin-top: 10px;
+}
+
+.remove-btn{
+  border-radius: 5px;
+  height: 30px;
+  width: 165px;
+  background-color: chartreuse;
+  font-weight: bold;
+}
+
+.remove-btn:hover{
+  cursor: pointer;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+
+.property-info{
+  margin: 5px 0;
+}
+
+.clear-fav-btn{
+  width: 165px;
+  height: 30px;
+  font-weight: bold;
+  margin-left: 270px;
+}
+
+.clear-favorites{
+  margin-top: -45px;
+  margin-bottom: 30px;
+}
+
+.property-modal{
+  height: 500px;
+  width: 800px;
+  background-color: lightslategray;
+  margin-top: 100px;
+  margin-left: 360px;
+  border-color: black;
+  overflow: scroll;
+}
+
+.property-modal::-webkit-scrollbar {
+  width: 6px;
+}
+
+
+.property-h2{
+  margin-left: 20px;
+}
+
+.modal-h3{
+  margin-left: 20px;
+}
+
+.modal-p{
+  margin-left: 20px;
+}
+
+.modal-button{
+  margin-left: 20px;
+  height: 30px;
+  background-color: chartreuse;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.modal-button:hover{
+  background-color: lightgreen;
+  cursor: pointer;
+}
+
+.floorplan, .pictures{
+  margin-left: 20px;
+}
+
+.gglmap{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.modal-button-1{
+  height: 30px;
+  background-color: chartreuse;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 680px;
+  margin-top: 0px;
+}
+
+.modal-button-1:hover{
+  background-color: lightgreen;
+  cursor: pointer;
+}
+
+.pictures{
+  width: 600px;
+  height: 320px;
+}
+
+.search-box{
+  height: 150px;
+  width: 500px;
+  margin-left: 600px;
+}
+
+.showhidebtn{
+  height: 30px;
+  width: 200px;
+  border-color: black;
+  margin-left: 650px;
+}
+
+.showhideform{
+  width: 500px;
+  height: 520px;
+  border-color: black;
+  background-color: lightslategray;
+  margin-left: 540px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.showhideform input,
+.showhideform button {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 150px;
+}
+
+.proptype{
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: black;
+}
+
+.typeContainer{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.typeContainer label{
+  margin-right: 20px;
+}
+
+.typelabel{
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.datetime{
+  height: 50px;
+}
+
+.submitbtn{
+  height: 30px;
+  width: 200px;
+  border-radius: 5px;
+  margin-left: 50px;
+  background-color: blue;
+}
+
+.submitbtn:hover{
+  background-color: darkblue;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 768px){
+  .h1app{
+    margin-left: -310px;
+  }
+  .propertySearch{
+    margin-left: -350px;
+  }
+  .showhidebtn{
+    margin-left: 300px;
+  }
+  .showhideform{
+    margin-left: 150px;
+  }
+  .favorites-box{
+    width: 550px;
+  }
+  .property-modal{
+    margin-left: 10px;
+  }
+}
+
+
+@media screen and (max-width: 1000px){
+  .h1app{
+    margin-left: -310px;
+  }
+  .propertySearch{
+    margin-left: -350px;
+  }
+  .showhidebtn{
+    margin-left: 300px;
+  }
+  .showhideform{
+    margin-left: 150px;
+  }
+  .favorites-box{
+    width: calc(50% - 10px);
+    margin-left: 10px;
+  }
+  .property-modal{
+    margin-left: 10px;
+  }
+  .properties-box{
+    width: calc(50% - 10px);
+    margin-right: 10px;
+  }
+}
